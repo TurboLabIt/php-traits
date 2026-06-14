@@ -1,0 +1,24 @@
+{
+    "name": "turbolabit/php-traits",
+    "license": "MIT",
+    "authors": [{
+        "name": "Zane",
+        "email": "info@turbolab.it"
+    }],
+    "autoload": {
+        "psr-4": {
+            "TurboLabIt\\Traits\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "TurboLabIt\\Traits\\tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    }
+}
