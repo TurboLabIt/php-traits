@@ -1,5 +1,6 @@
 {
     "name": "turbolabit/php-traits",
+    "description": "A collection of reusable PHP traits",
     "license": "MIT",
     "authors": [{
         "name": "Zane",
